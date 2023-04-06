@@ -1,1 +1,1 @@
-# Sponsorship-Platform
+# Plateforme de codification
